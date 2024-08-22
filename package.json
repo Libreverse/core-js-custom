@@ -1,7 +1,3 @@
 {
-  "dependencies": { "@babel/core": "^7.25.2", "@babel/preset-env": "^7.25.3", "babel-cli": "^6.26.0", "google-closure-compiler-java": "^20240317.0.0" },
-  "trustedDependencies": [
-    "core-js",
-    "fsevents"
-  ]
+  "dependencies": { "google-closure-compiler-java": "^20240317.0.0" }
 }
