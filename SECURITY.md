@@ -17,7 +17,7 @@ Maintaining the security of this project is our top priority. Currently, support
 ## Reporting a Vulnerability
 
 If you uncover a potential security issue, we earnestly request your assistance in reporting it through responsible channels.
-We am in the process of implementing a more robust and secure reporting system. More details will be provided once this system is in place.
+We are in the process of implementing a more robust and secure reporting system. More details will be provided once this system is in place.
 
 ### Contact Channels
 
