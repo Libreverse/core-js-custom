@@ -1,4 +1,4 @@
-#core-js-custom
+# core-js-custom
 
 This is a customised version of the core-js library created for the libreverse project that adds polyfills for fetch and some features of proxy.
 
